@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/NailykSturm/Confrerie_des_templiers_back
+	url = https://github.com/NailykSturm/Confrerie_des_templiers_back.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/NailykSturm/Confrerie_des_templiers_front
+	url = https://github.com/NailykSturm/Confrerie_des_templiers_front.git
